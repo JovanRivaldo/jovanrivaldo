@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Yahallo!  I'm Jovan Rivaldo👋
+![Jovan Rivaldo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNlNWN5bjZ5MWYzdTd1MWkzb21jOWxycGs3bm1sODEwbHpyOW91aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif)
 <!--
 **JovanRivaldo/jovanrivaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently student of **_Bina Nusantara University_**
+- 🌱 I’m currently learning Cyber Security
