@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+‼️Cyber Security student passionate about data protection, with a sharp analytical mindset to assess risks. Communicative, adaptable, and growth-oriented with strong leadership potential.
 - 🔭 I’m currently student of **_Bina Nusantara University_**
 - 🌱 I’m currently learning Cyber Security
