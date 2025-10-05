@@ -32,6 +32,8 @@ Here are some tools & technologies I work with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jovan-rivaldo-914196305/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jovannrivaldo/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JovanRivaldo)
+[![Portofolio](https://img.shields.io/badge/Portofolio-green?style=for-the-badge)](jovanrivaldo.com)
+
 
 ---
 
