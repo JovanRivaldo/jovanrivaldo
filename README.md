@@ -1,13 +1,38 @@
+# 👋 Hi, I’m Jovan Rivaldo
 
-<h1 align="center">Yahaloo! I'm Jovan Rivaldo 👋👋</h1>
-(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNlNWN5bjZ5MWYzdTd1MWkzb21jOWxycGs3bm1sODEwbHpyOW91aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif)
-<h3 align="center">Cyber Security student passionate about data protection, with a sharp analytical mindset to assess risks. Communicative, adaptable, and growth-oriented with strong leadership potential.</h3>
+![Jovan Rivaldo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNlNWN5bjZ5MWYzdTd1MWkzb21jOWxycGs3bm1sODEwbHpyOW91aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jovanrivaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jovanrivaldo" height="30" width="40" /></a>
-<a href="https://instagram.com/jovannrivaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jovannrivaldo" height="30" width="40" /></a>
-</p>
+🎓 I’m a **Cyber Security student at Binus University**, passionate about **data protection** and risk analysis.
+🛡️ With a sharp analytical mindset, I enjoy identifying vulnerabilities and safeguarding systems.
+💡 I’m communicative, adaptable, and growth-oriented — ready to collaborate and lead with positivity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+* 🔐 Cyber Security Enthusiast
+* 🧠 Strong interest in **Cyber Security**
+* 📚 Currently learning more about **advanced threat analysis** and **ethical hacking**
+* 🌱 Always eager to explore new insight in **cyber security**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Here are some tools & technologies I work with:
+
+* 💻 **Programming & Scripting:** C, Python, JavaScript
+* 🌐 **Web Development:** HTML, CSS, JS, MySQL
+* 🐧 **Operating Systems:** Kali Linux
+* 🔎 **Security Tools:** BurpSuite, Wireshark, Nmap
+* ⚙️ **Other Interests:** Secure Web Development, Vulnerability Assessment
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jovan-rivaldo-914196305/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jovannrivaldo/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JovanRivaldo)
+
+---
+
+✨ *"Cybersecurity is not just about technology — it’s about mindset, responsibility, and continuous learning."* ✨
